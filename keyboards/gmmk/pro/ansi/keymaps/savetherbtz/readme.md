@@ -1,6 +1,6 @@
 # SaveTheRbtz GMMK Pro Layout
 
-Based on [gmmk/pro/keymaps/willwm](../willwm/keymap.c)
+Based on [gmmk/pro/keymaps/willwm](../willwm/keymap.c) and [gmmk/pro/keymaps/sickandgum](../sickandgum/keymap.c)
 
 Layer 0
 

@@ -1,3 +1,3 @@
-# Enable additional features.
-
 DEBOUNCE_TYPE = sym_defer_pk
+CONSOLE_ENABLE = no
+MOUSEKEY_ENABLE = yes
