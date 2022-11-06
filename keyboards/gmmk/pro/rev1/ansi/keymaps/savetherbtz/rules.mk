@@ -1,4 +1,4 @@
-DEBOUNCE_TYPE = asym_eager_defer_pk
+DEBOUNCE_TYPE = sym_defer_pk
 CONSOLE_ENABLE = no
 
 LTO_ENABLE = yes
